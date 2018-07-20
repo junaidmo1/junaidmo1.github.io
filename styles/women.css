@@ -1,0 +1,141 @@
+body{
+  margin:0;
+  padding:0;
+}
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
+.navbar{
+  height:8vh;
+}
+ul.nav a:hover { color: #DC143C !important; }
+.navbar-link a{
+color:#DC143C;
+}
+.navbar-link {
+  color:#DC143C;
+}
+.dropdown-menu{
+height:200px;
+width:150px;
+}
+.section2{
+  height:auto;
+  display:flex;
+  opacity:0.9;
+}
+
+
+.box3
+{
+  flex:1.5;
+  background-color:#DC143C;
+  opacity:0.8;
+  padding: 0px 30px 0px 30px;
+}
+.box4{
+  flex:1;
+}
+.box4 img{
+  max-width: 100%;
+}
+.box1
+{
+  padding: 0px 30px 0px 30px;
+}
+.section3{
+display: flex;
+height:70vh;
+max-width: 100%;
+padding:0;
+margin: 0;
+}
+.list-group{
+
+}
+.list-group-item {
+background-color:grey;
+opacity:0.85;
+font-weight:bold;
+font:17px;
+line-height:3rem;
+
+}
+.section4{
+  background-image:url('../images/trucks6.jpg');
+  background-position:center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height:70vh;
+  margin:0;
+  padding:0;
+opacity: 0.78;
+}
+.section5{
+  background-color: #C0C0C0;
+
+  height:60vh;
+  box-shadow: 0 25px 30px rgba(0,0,0,.5)
+}
+.section6{
+  display:flex;
+  height:auto;
+}
+
+.box5
+{
+  max-width:100%;
+
+flex:1;
+background-color:#DC143C;
+opacity:0.8;
+text-align: center;
+color:white;
+}
+.box6
+{
+
+  max-width:100%;
+
+  flex:1;
+  height:100%;
+
+}
+.img-responsive {
+position:absolute;
+right: 0;
+}
+.section7{
+  display: flex;
+  max-width:100%;
+  height:auto;
+  background-color:#A9A9A9;
+  padding:10px 10px 10px 10px;
+}
+.box7{
+flex:2;
+}
+.box8{
+  flex:1;
+}
+.section8{
+  display:flex;
+  background-color: black;
+}
+.box9{
+flex:1;
+}
+.box10{
+  flex:1;
+  padding:20px 40px 0px 40px;
+}
+.lastsection{
+  background-color:#A9A9A9;
+  height:30px;
+}
+button{
+  padding:20px 20px 20px 20px;
+}

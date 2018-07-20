@@ -1,0 +1,189 @@
+html,body{
+  margin:0;
+  padding:0;
+  height:100%;
+}
+.img-responsive{
+
+
+
+}
+.img-fluid{
+  max-width:100%;
+  height:auto;
+  padding-left: 200px;
+  padding-right:200px;
+}
+.section3{
+  margin-left:200px;
+  margin-right:200px;
+
+}
+.section3 p{
+  font-family:sans-serif;
+  font-size:17.5px;
+  line-height:1.8;
+  color:##484848;
+}
+.section4{
+
+}
+.left{
+  margin-left:300px;
+  margin-top:20px;
+  margin-bottom:20px;
+
+}
+.img1{
+max-width:150%;
+height:auto;
+
+
+}
+
+.section5{
+
+}
+.right{
+  margin-left:200px;
+}
+.img2{
+max-width:70%;
+height:auto;
+
+
+}
+
+.img3{
+  margin-left:200px;
+  margin-top: 100px;
+  margin-bottom:40px;
+}
+
+.img4{
+  max-width:70%;
+  height:auto;
+
+
+
+}
+h5{
+  font-size:13px;
+  font-style: italic;
+}
+h6{
+  text-align:center;
+  vertical-align: middle;
+  margin-left:
+}
+.section6{
+  margin-left:200px;
+  margin-right:200px;
+}
+.section6 p{
+  font-family:sans-serif;
+  font-size:17.5px;
+  line-height:1.8;
+  color:##484848;
+}
+
+
+}
+.headings{
+  margin-left:220px;
+  margin-top: 100px;
+}
+.headings h2{
+  margin-left:206px;
+  margin-top:100px;
+}
+.headings h3{
+  margin-left:250px;
+}
+
+
+.image2{
+  margin-left:200px;
+  margin-top: 40px;
+  margin-bottom:40px;
+}
+.img5{
+  max-width:70%;
+  height:auto;
+
+}
+.form-group,.form-check{
+  margin-left:70px;
+  font-size:19px;
+}
+ button{
+   margin-left:70px;
+
+ }
+ footer{
+   background-color:#2a2827;
+   margin-top:50px;
+   color:white;
+ }
+ .para{
+font-size:16px;
+
+ }
+.junaid{
+  color:white;
+  margin-top: 30px;
+  font-size:17px;
+}
+.junaid li a:hover{
+color:white;
+}
+.socialbuttons {
+  margin-top:40px;
+
+}
+.socialbuttons a i:hover{
+  color:white;
+}
+.parafoot p{
+  margin-top:10px;
+}
+.movie1{
+  margin-left:200px;
+  margin-top:50px;
+}
+.movie1 p{
+  font-family:sans-serif;
+  font-size:17.5px;
+  line-height:1.8;
+  color:##484848;
+}
+.movie2{
+  margin-left:200px;
+  margin-top:50px;
+}
+.movie2 p{
+  font-family:sans-serif;
+  font-size:17.5px;
+  line-height:1.8;
+  color:##484848;
+}
+.movie3{
+  margin-left:200px;
+  margin-top:50px;
+}
+.movie3 p{
+  font-family:sans-serif;
+  font-size:17.5px;
+  line-height:1.8;
+  color:##484848;
+}
+.movie4{
+  margin-left:200px;
+  margin-top:50px;
+}
+.movie4 p{
+  font-family:sans-serif;
+  font-size:17.5px;
+  line-height:1.8;
+  color:##484848;
+}

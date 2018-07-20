@@ -1,0 +1,75 @@
+body,html{
+  margin:0;
+  padding:0;
+
+  font-family: 'Pontano Sans', sans-serif;
+}
+img{
+  max-width:100%;
+  height:auto;
+}
+
+
+.line{
+  text-align: center;
+
+}
+
+
+.section2{
+  display: flex;
+  height: auto;
+
+}
+.section2 img{
+  max-width: 100%;
+}
+.date1{
+  flex: 0.34;
+}
+.img1{
+  flex:2;
+}
+.text1{
+  flex:2;
+}
+
+.section3{
+  display: flex;
+  height: auto;
+  box-shadow:20px;
+
+}
+.section3 img{
+  max-width: 100%;
+  height: auto;
+}
+.date2{
+  flex: 0.34;
+}
+.img2{
+  flex:2;
+}
+
+.text2{
+  flex:2;
+}
+
+.section4{
+  display: flex;
+  height: auto;
+
+}
+.section4 img{
+  max-width: 100%;
+  height: auto;
+}
+.date3{
+  flex: 0.34;
+}
+.img3{
+  flex:2;
+}
+.text3{
+  flex:2;
+}

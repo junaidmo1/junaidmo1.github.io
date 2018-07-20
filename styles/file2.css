@@ -1,0 +1,123 @@
+
+body,html{
+  margin:0;
+  padding:0;
+  height:100%;
+  width:100%;
+}
+#fullimage{
+background-image: url('../images/img3.jpg');
+background-size:cover;
+background-attachment:scroll;
+background-repeat: no-repeat;
+background-position: center;
+height:100vh;
+width:auto;
+margin-right: 0;
+margin-left:0;
+padding:0;
+
+
+}
+ h1{
+  animation:image;
+  animation-fill-mode: forwards;
+  animation-duration:4s;
+
+}
+@keyframes image{
+  0%{opacity:0;}
+  100%{opacity:1;}
+
+}
+.headings{
+text-align:center;
+vertical-align:middle;
+padding-top:40vh;
+
+}
+
+footer{
+  padding:40px 40px 40px 40px;
+  margin: 0;
+  background-color:#2a2827;
+
+}
+.font-class{
+  color:white;
+  text-decoration:none;
+font-weight: bold;
+
+  }
+
+
+#navbar a{
+  font-size:20px;
+  font-weight:normal;
+  color:white;
+
+
+}
+#navbar a:hover{
+color:grey;
+display:block;
+}
+.navbar-brand{
+  font-size:30px;
+font-style: italic;
+font-color:white;
+}
+.navbar{
+  animation:nav;
+animation-duration:4s;
+animation-fill-mode:forwards;
+background-color: #2a2827;
+padding:2px 2px 2px 3px;
+}
+@keyframes nav {
+  0%{opacity:0;}
+    100%{opacity:1;}
+  }
+
+.lifestyle1{
+  border-color: black;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: thick;
+  padding : 20px 20px 20px 20px;
+
+}
+.travel1{
+  border-color: black;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: thick;
+  padding : 20px 20px 20px 20px;
+
+}
+
+.blogs1{
+  border-color: black;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: thick;
+  padding : 20px 20px 20px 20px;
+
+}
+.more1{
+  border-color: black;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: thick;
+  padding : 20px 20px 20px 20px;
+
+}
+#travelandlifestyle,#blogsandmore{
+  margin-top:10px;
+  margin-bottom: 20px;
+}
+
+
+.btn-secondary{
+
+}

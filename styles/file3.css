@@ -1,0 +1,182 @@
+.navbar-default
+  {
+    background:#2a2827;
+    border:0;
+  }
+.navbar-brand{
+  color:white;
+  font-size:30px;
+  font-weight: bold;
+  text-transform: uppercase;
+
+
+}
+
+body{
+  margin:0px;
+}
+#showcase h1{
+  font-weight:bold;
+  text-transform: uppercase;
+  font-size:40px;
+  margin-top: 80px;
+}
+#showcase p{
+
+  font-size: 20px;
+
+}
+#inbetween {
+
+background:#f1f1f1;
+margin:0;
+padding:50px 0 50px 0;
+text-align: center;
+font-weight:bold;
+font-size:17px;
+
+}
+#inbetween p.customer{
+  font-size:15px;
+  font-weight:normal;
+  font-style: italic;
+}
+#nextbox .nextbox-right{
+  margin-top:70px;
+
+}
+
+#nextbox p.nextbox-right{
+  font-size:18px;
+}
+footer{
+  background:#2a2827;
+  padding: 50px 0 50px 0;
+  margin-top:20px;
+  text-align: center;
+  font-size:17px;
+  font-weight: bold;
+
+}
+.showcase-left{
+animation:heading;
+ position:relative;
+ animation-duration: 2s;
+ animation-fill-mode:forwards;
+
+
+
+
+}
+@keyframes heading {
+  0%{top:-300px;}
+  100%{top:20px;}
+  }
+.showcase-right{
+  animation:content;
+  position:relative;
+  animation-duration:2s;
+  animation-fill-mode: forwards;
+}
+
+
+@keyframes content {
+100%{right:0px;}
+0%{right:-1000px;}
+
+
+}
+.btn-primary
+{
+  animation:btn;
+  animation-duration: 3s;
+  background-color:black;
+  border-color: inherit;
+  border-radius:40px;
+  transition-property:transform;
+  transition-duration:1s;
+
+}
+.btn-primary:hover{
+  transform: rotateY(180deg);
+
+}
+@keyframes btn {
+  0%{opacity:0;}
+    100%{opacity:1;
+    }
+
+}
+
+.navbar{
+  animation:nav;
+animation-duration:2s;
+animation-fill-mode:forwards;
+background:transparent;
+}
+@keyframes nav {
+  0%{opacity:0;}
+    100%{opacity:1;}
+
+}
+#inbetween {
+  animation:inbtn;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+
+}
+@keyframes inbtn {
+  0%{opacity:0;}
+    100%{opacity:1;}
+
+}
+.nextbox-left{
+
+  animation:nextl;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  position:relative;
+
+  }
+  @keyframes nextl {
+  0%{left:-1000px;}
+    100%{left:0px;}
+  }
+
+.nextbox-right{
+
+
+
+animation:content;
+position:relative;
+animation-duration:5s;
+animation-fill-mode:forwards;
+}
+
+
+@keyframes content {
+100%{right:0px;}
+0%{right:-1000px;
+
+
+}
+}
+#anotherbox{
+animation:anim;
+animation-duration:6s;
+animation-fill-mode: forwards;
+
+}
+@keyframes anim {
+0%{opacity:0.2;}
+  100%{opacity:1;
+  }
+}
+
+
+nav a{
+  color:white;
+  font-weight:bold;
+}
+nav a:hover{
+}

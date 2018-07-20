@@ -1,0 +1,63 @@
+body,html{
+  margin:0 auto;
+  padding:0;
+
+  display:block;
+  width:auto;
+}
+.nav-link{
+  color:white;
+}
+.section1{
+  background-color: #008B8B;
+  background-position: center;
+  background-size: cover;
+  height:70vh;
+  text-align: center;
+  width:100%;
+  margin: auto;
+
+}
+.section1 h2{
+  margin-top: 100px;
+}
+.responsive-image img{
+  border-radius:50px;
+}
+.portfolio{
+  border-radius:50px;
+  text-align: center;
+  margin-top:50px;
+  margin-bottom:60px;
+  margin-right:0;
+  margin-left:0;
+  display: flex;
+}
+.about{
+  text-align:center;
+  margin-top:100px;
+  margin-bottom:100px;
+  margin-right:0;
+  margin-left: 0;
+  background-color: #008080;
+height:50vh;
+}
+.about p{
+  font-size:18px;
+  font-weight:400;
+  margin-top:70px;
+}
+.about h2{
+  font-size:30px;
+  font-weight:bold;
+  margin-top:70px;
+}
+form{
+  margin:auto;
+}
+footer{
+  margin: auto;
+}
+.copyrightsection{
+  margin: auto;
+}
